@@ -11,7 +11,7 @@ npm run cordova
 - Click toggle twice, this will force angular refresh, you will see REFRESH DONE
 
 ### Run Web Version
-npm run web
+npm run web (it will open a browser)
 
 ### Normal behavior
 - Click on HTTP Call, it will stay on 'LOADING' then 'REFRESH DONE'

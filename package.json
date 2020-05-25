@@ -5,7 +5,7 @@
     "description": "A sample Apache Cordova application that responds to the deviceready event.",
     "main": "index.js",
     "scripts": {
-        "cordova": "cordova run ios --simulator --debug",
+        "cordova": "cordova run ios --simulator",
         "web": "npx lite-server --baseDir='www'"
     },
     "author": "Apache Cordova Team",
