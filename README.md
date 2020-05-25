@@ -11,6 +11,8 @@ npm run cordova
 - Click toggle twice, this will force angular refresh, you will see REFRESH DONE
 
 ### Run Web Version
-npx lite-server --baseDir="www"
+npm run web
 
-You will see the normal behavior.
+### Normal behavior
+- Click on HTTP Call, it will stay on 'LOADING' then 'REFRESH DONE'
+- Click toggle twice will show no difference, as it was already refreshed by zone
