@@ -6,7 +6,7 @@
     "main": "index.js",
     "scripts": {
         "cordova": "cordova run ios --simulator",
-        "web": "npx lite-server --baseDir='www'"
+        "web": "npx lite-server --baseDir=\"./www/\""
     },
     "author": "Apache Cordova Team",
     "license": "Apache-2.0",
