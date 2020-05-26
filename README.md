@@ -1,5 +1,7 @@
 # cordova-angular-refresh-problem
 
+Note: on windows use gitbash
+
 ### Setup
 bash setup.sh
 
